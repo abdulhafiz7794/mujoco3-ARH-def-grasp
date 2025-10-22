@@ -83,6 +83,7 @@ mujoco3_ARH_def_grasp/
 +-- external/                     # MuJoCo example assets (subset)
 |
 +-- .gitignore                    # Python cache and temporary files
++-- LICENSE                       # Apache 2.0 license
 +-- requirements.txt              # Project dependencies (MuJoCo v3.3.7)
 +-- README.md                     # Project documentation (this file)
 ```
